@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Foodlify - Your Ultimate Food Companion",
     description: "Discover, organize, and enjoy amazing culinary experiences with Foodlify",
-    url: "https://foodlify.com",
+    url: "www.myfoodlify.ga",
     siteName: "Foodlify",
     type: "website",
   },
