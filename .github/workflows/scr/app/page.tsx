@@ -102,7 +102,7 @@ export default function Home() {
             {/* Logo */}
             <div className="relative w-64 h-20 mx-auto mb-12">
               <img
-                src="/logo.svg"
+                src="/Logo.svg"
                 alt="Foodlify Logo"
                 className="w-full h-full object-contain"
               />
