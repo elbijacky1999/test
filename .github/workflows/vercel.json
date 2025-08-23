@@ -14,7 +14,7 @@
     }
   ],
   "env": {
-    "NEXTAUTH_URL": "https://myfoodilyfi.ga",
+    "NEXTAUTH_URL": "https://myfoodlify.ga",
     "NEXTAUTH_SECRET": "your-nextauth-secret-here"
   }
 }
