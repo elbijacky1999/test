@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "name": "foodlify",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ],
+  "env": {
+    "NEXTAUTH_URL": "https://myfoodilyfi.ga",
+    "NEXTAUTH_SECRET": "your-nextauth-secret-here"
+  }
+}
